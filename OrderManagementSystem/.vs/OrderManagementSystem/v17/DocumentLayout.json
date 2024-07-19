@@ -1,0 +1,756 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FCI\\.Net\\OrderManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\extentions\\applyseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\extentions\\applyseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D70F2B-49D0-4BDA-9E01-8EF20D65EAB6}|Repositories\\Repositories.csproj|e:\\fci\\.net\\ordermanagementsystem\\repositories\\addidentitycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D70F2B-49D0-4BDA-9E01-8EF20D65EAB6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\addidentitycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\usercreationwithrole\\userwithroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\usercreationwithrole\\userwithroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\usercreationwithrole\\iuserwithroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\usercreationwithrole\\iuserwithroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\extentions\\aplicationservicesextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\extentions\\aplicationservicesextenstions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\extentions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\extentions\\identityserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\extentions\\swaggerserivceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\extentions\\swaggerserivceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\userservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\tokenservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\tokenservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\tokenservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\tokenservices\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\userservices\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\userservices\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\usercreationwithrole\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\usercreationwithrole\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\userservices\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\userservices\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\userservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\userservices\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\userservices\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\roleservices\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\roleservices\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\roleservices\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\roleservices\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\roleservices\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\roleservices\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|e:\\fci\\.net\\ordermanagementsystem\\ordermanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F7DC748-172E-4E51-BB55-1D73537B58FD}|OrderManagementSystem\\OrderManagementSystem.csproj|solutionrelative:ordermanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\handleresponse\\validationerrorrespons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\handleresponse\\validationerrorrespons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\handleresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\handleresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\handleresponse\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\handleresponse\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\orderservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\orderservices\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\orderservices\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\orderservices\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\orderservices\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\orderservices\\viewmodel\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\orderservices\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\orderservices\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D70F2B-49D0-4BDA-9E01-8EF20D65EAB6}|Repositories\\Repositories.csproj|e:\\fci\\.net\\ordermanagementsystem\\repositories\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D70F2B-49D0-4BDA-9E01-8EF20D65EAB6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\customerservices\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\customerservices\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D70F2B-49D0-4BDA-9E01-8EF20D65EAB6}|Repositories\\Repositories.csproj|e:\\fci\\.net\\ordermanagementsystem\\repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D70F2B-49D0-4BDA-9E01-8EF20D65EAB6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\orderservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\orderservices\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\customerservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\customerservices\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\orderservices\\dtos\\orderwithtotalamountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\orderservices\\dtos\\orderwithtotalamountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3AB87D-4D38-4B38-857A-CEF1121C9B34}|Data\\Data.csproj|e:\\fci\\.net\\ordermanagementsystem\\data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3AB87D-4D38-4B38-857A-CEF1121C9B34}|Data\\Data.csproj|solutionrelative:data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|e:\\fci\\.net\\ordermanagementsystem\\service\\orderservices\\dtos\\orderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B07CFC-389B-4D4A-AC53-55FA2D479C16}|Service\\Service.csproj|solutionrelative:service\\orderservices\\dtos\\orderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D70F2B-49D0-4BDA-9E01-8EF20D65EAB6}|Repositories\\Repositories.csproj|e:\\fci\\.net\\ordermanagementsystem\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D70F2B-49D0-4BDA-9E01-8EF20D65EAB6}|Repositories\\Repositories.csproj|solutionrelative:repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplySeeding.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Extentions\\ApplySeeding.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Extentions\\ApplySeeding.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Extentions\\ApplySeeding.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Extentions\\ApplySeeding.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:43:26.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddIdentityContextSeed.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Repositories\\AddIdentityContextSeed.cs",
+              "RelativeDocumentMoniker": "Repositories\\AddIdentityContextSeed.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Repositories\\AddIdentityContextSeed.cs",
+              "RelativeToolTip": "Repositories\\AddIdentityContextSeed.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:36:30.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Program.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Program.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:47:16.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:45:42.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserWithRoleService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserCreationWithRole\\IUserWithRoleService.cs",
+              "RelativeDocumentMoniker": "Service\\UserCreationWithRole\\IUserWithRoleService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserCreationWithRole\\IUserWithRoleService.cs",
+              "RelativeToolTip": "Service\\UserCreationWithRole\\IUserWithRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:52:46.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserWithRoleService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserCreationWithRole\\UserWithRoleService.cs",
+              "RelativeDocumentMoniker": "Service\\UserCreationWithRole\\UserWithRoleService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserCreationWithRole\\UserWithRoleService.cs",
+              "RelativeToolTip": "Service\\UserCreationWithRole\\UserWithRoleService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:53:03.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T13:33:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:42:09.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AplicationServicesExtenstions.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Extentions\\AplicationServicesExtenstions.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Extentions\\AplicationServicesExtenstions.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Extentions\\AplicationServicesExtenstions.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Extentions\\AplicationServicesExtenstions.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwB4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:05:07.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentityServiceExtensions.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Extentions\\IdentityServiceExtensions.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Extentions\\IdentityServiceExtensions.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Extentions\\IdentityServiceExtensions.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Extentions\\IdentityServiceExtensions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:32:04.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SwaggerSerivceExtensions.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Extentions\\SwaggerSerivceExtensions.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Extentions\\SwaggerSerivceExtensions.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Extentions\\SwaggerSerivceExtensions.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Extentions\\SwaggerSerivceExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAxwAoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:53:16.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Controllers\\InvoiceController.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Controllers\\InvoiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:36:46.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:48:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:03:48.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\TokenServices\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Service\\TokenServices\\ITokenService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\TokenServices\\ITokenService.cs",
+              "RelativeToolTip": "Service\\TokenServices\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:20:21.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:36:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserServices\\UserService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\UserService.cs",
+              "RelativeToolTip": "Service\\UserServices\\UserService.cs",
+              "ViewState": "AQIAAAoAAAAAMzMzMzMtwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:48:28.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Service\\UserServices\\Dtos\\LoginDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "Service\\UserServices\\Dtos\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:47:54.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\TokenServices\\TokenService.cs",
+              "RelativeDocumentMoniker": "Service\\TokenServices\\TokenService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\TokenServices\\TokenService.cs",
+              "RelativeToolTip": "Service\\TokenServices\\TokenService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:02:59.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderManagementSystem\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwF8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:07:14.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserCreationWithRole\\Dtos\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Service\\UserCreationWithRole\\Dtos\\CreateUserDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserCreationWithRole\\Dtos\\CreateUserDto.cs",
+              "RelativeToolTip": "Service\\UserCreationWithRole\\Dtos\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:50:22.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Service\\UserServices\\Dtos\\RegisterDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "Service\\UserServices\\Dtos\\RegisterDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:47:29.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserServices\\IUserService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\IUserService.cs",
+              "RelativeToolTip": "Service\\UserServices\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:46:39.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\RoleServices\\Dtos\\RoleDto.cs",
+              "RelativeDocumentMoniker": "Service\\RoleServices\\Dtos\\RoleDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\RoleServices\\Dtos\\RoleDto.cs",
+              "RelativeToolTip": "Service\\RoleServices\\Dtos\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:04:24.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Service\\UserServices\\Dtos\\UserDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\UserServices\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Service\\UserServices\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:47:01.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\RoleServices\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Service\\RoleServices\\IRoleService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\RoleServices\\IRoleService.cs",
+              "RelativeToolTip": "Service\\RoleServices\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:00:54.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\RoleServices\\RoleService.cs",
+              "RelativeDocumentMoniker": "Service\\RoleServices\\RoleService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\RoleServices\\RoleService.cs",
+              "RelativeToolTip": "Service\\RoleServices\\RoleService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:01:09.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderManagementSystem\\appsettings.json",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\OrderManagementSystem\\appsettings.json",
+              "RelativeToolTip": "OrderManagementSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T08:11:48.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ValidationErrorRespons.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\HandleResponse\\ValidationErrorRespons.cs",
+              "RelativeDocumentMoniker": "Service\\HandleResponse\\ValidationErrorRespons.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\HandleResponse\\ValidationErrorRespons.cs",
+              "RelativeToolTip": "Service\\HandleResponse\\ValidationErrorRespons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:47:30.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Response.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\HandleResponse\\Response.cs",
+              "RelativeDocumentMoniker": "Service\\HandleResponse\\Response.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\HandleResponse\\Response.cs",
+              "RelativeToolTip": "Service\\HandleResponse\\Response.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:46:37.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\HandleResponse\\CustomException.cs",
+              "RelativeDocumentMoniker": "Service\\HandleResponse\\CustomException.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\HandleResponse\\CustomException.cs",
+              "RelativeToolTip": "Service\\HandleResponse\\CustomException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T09:46:14.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\ViewModel\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Service\\OrderServices\\ViewModel\\OrderViewModel.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\ViewModel\\OrderViewModel.cs",
+              "RelativeToolTip": "Service\\OrderServices\\ViewModel\\OrderViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:55:39.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Service\\OrderServices\\Dtos\\OrderDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "Service\\OrderServices\\Dtos\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:31:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\Dtos\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Service\\OrderServices\\Dtos\\OrderItemDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\Dtos\\OrderItemDto.cs",
+              "RelativeToolTip": "Service\\OrderServices\\Dtos\\OrderItemDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:15:11.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\OrderServices\\OrderService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\OrderService.cs",
+              "RelativeToolTip": "Service\\OrderServices\\OrderService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAjwBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:15:33.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Repositories\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\OrderRepository.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Repositories\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCgAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:13:05.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\OrderServices\\IOrderService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\IOrderService.cs",
+              "RelativeToolTip": "Service\\OrderServices\\IOrderService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:18:12.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\CustomerServices\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\CustomerServices\\CustomerService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\CustomerServices\\CustomerService.cs",
+              "RelativeToolTip": "Service\\CustomerServices\\CustomerService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADgvx8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:47:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Repositories\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:27:35.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\CustomerServices\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\CustomerServices\\ICustomerService.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\CustomerServices\\ICustomerService.cs",
+              "RelativeToolTip": "Service\\CustomerServices\\ICustomerService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:50:22.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Data\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Order.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Data\\Entities\\Order.cs",
+              "RelativeToolTip": "Data\\Entities\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:36:23.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderWithTotalAmountDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\Dtos\\OrderWithTotalAmountDto.cs",
+              "RelativeDocumentMoniker": "Service\\OrderServices\\Dtos\\OrderWithTotalAmountDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\Dtos\\OrderWithTotalAmountDto.cs",
+              "RelativeToolTip": "Service\\OrderServices\\Dtos\\OrderWithTotalAmountDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:37:31.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderStatusDto.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\Dtos\\OrderStatusDto.cs",
+              "RelativeDocumentMoniker": "Service\\OrderServices\\Dtos\\OrderStatusDto.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Service\\OrderServices\\Dtos\\OrderStatusDto.cs",
+              "RelativeToolTip": "Service\\OrderServices\\Dtos\\OrderStatusDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:17:28.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\FCI\\.Net\\OrderManagementSystem\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "E:\\FCI\\.Net\\OrderManagementSystem\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T18:23:18.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

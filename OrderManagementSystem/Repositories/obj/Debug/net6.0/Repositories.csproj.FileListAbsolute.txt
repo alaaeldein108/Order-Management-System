@@ -1,0 +1,15 @@
+E:\FCI\.Net\OrderManagementSystem\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\FCI\.Net\OrderManagementSystem\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\FCI\.Net\OrderManagementSystem\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\FCI\.Net\OrderManagementSystem\Repositories\bin\Debug\net6.0\Data.dll
+E:\FCI\.Net\OrderManagementSystem\Repositories\bin\Debug\net6.0\Data.pdb
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\Reposito.787EC4B2.Up2Date
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\FCI\.Net\OrderManagementSystem\Repositories\obj\Debug\net6.0\ref\Repositories.dll

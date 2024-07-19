@@ -1,0 +1,14 @@
+E:\FCI\.Net\OrderManagementSystem\Data\bin\Debug\net6.0\Data.deps.json
+E:\FCI\.Net\OrderManagementSystem\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\FCI\.Net\OrderManagementSystem\Data\bin\Debug\net6.0\Data.dll
+E:\FCI\.Net\OrderManagementSystem\Data\bin\Debug\net6.0\Data.pdb
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\Data.dll
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\refint\Data.dll
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\Data.pdb
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\FCI\.Net\OrderManagementSystem\Data\obj\Debug\net6.0\ref\Data.dll
